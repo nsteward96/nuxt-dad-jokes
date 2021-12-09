@@ -1,5 +1,5 @@
 # nuxt-proj
-A project utilizing Nuxt.
+An app to display dad jokes utilizing Nuxt. As shown in Traversy Media's video which can be found here: https://www.youtube.com/watch?v=ltzlhAxJr74
 
 ## Build Setup
 
