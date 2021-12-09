@@ -1,4 +1,4 @@
-# nuxt-proj
+# nuxt-dad-jokes
 An app to display dad jokes utilizing Nuxt. Implemented to the best of my ability as shown in Traversy Media's video which can be found here: https://www.youtube.com/watch?v=ltzlhAxJr74
 
 ## Build Setup
